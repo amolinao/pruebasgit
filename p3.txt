@@ -6,3 +6,7 @@
 
 	Para probar diff
 
+	También se hicieron pruebas de borrado archivos
+
+
+
