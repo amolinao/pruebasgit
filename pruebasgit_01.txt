@@ -1,6 +1,0 @@
-
-
-	Archivo para pruebas con git
-
-	preparando el segundo commit y push
-
