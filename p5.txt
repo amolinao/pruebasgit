@@ -8,5 +8,9 @@
 
 	También se hicieron pruebas de borrado archivos
 
+	El archivo se llama ahora p5.txt
+
+
+
 
 
